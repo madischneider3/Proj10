@@ -1,0 +1,26 @@
+{
+  "name": "svg-gen",
+  "version": "1.0.0",
+  "description": "SVG generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madischneider3/SVG-Gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madischneider3/SVG-Gen/issues"
+  },
+  "homepage": "https://github.com/madischneider3/SVG-Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
